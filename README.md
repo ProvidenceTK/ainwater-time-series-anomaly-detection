@@ -1,4 +1,4 @@
-﻿# AInWater Time Series Anomaly Detection
+# AInWater Time Series Anomaly Detection
 
 A Python project for detecting anomalies, sensor outliers, and drift patterns in water-quality time series. The repository combines a reusable command-line pipeline with exploratory notebooks for preprocessing, drift analysis, model evaluation, and manual labeling workflows.
 
