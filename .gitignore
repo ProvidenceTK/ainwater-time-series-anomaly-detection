@@ -1,0 +1,38 @@
+﻿# Local environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archives and generated packages
+*.zip
+*.rar
+*.7z
+
+# Large/raw data should stay outside Git unless explicitly anonymized
+data/
+Datos-2024/
+df_procesados/
+raw_data/
+*.gdb/
+*.dbf
+*.shp
+*.shx
+*.sbn
+*.sbx
+*.tif
+*.jp2
+*.pkl
+
+# Secrets
+.env
+*.pem
+*.key

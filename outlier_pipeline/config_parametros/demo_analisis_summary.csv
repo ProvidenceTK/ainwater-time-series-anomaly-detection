@@ -1,0 +1,4 @@
+column,detector,status,lambda_centrada,k,outlier_ratio,threshold_used,std_used,note
+temperatura,diff,in_target_band,5,0,0.018,8.647432058852553,1.7294864117705107,in_target_band
+flujo,diff,in_target_band,5,0,0.008,25.457351727002493,5.091470345400499,in_target_band
+presion,diff,in_target_band,5,0,0.016,1.6677534814367678,0.33355069628735357,in_target_band

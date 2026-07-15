@@ -1,0 +1,8 @@
+﻿pandas
+numpy
+statsmodels
+changefinder
+scikit-learn
+matplotlib
+plotly
+dash

@@ -1,0 +1,53 @@
+{
+  "temperatura": {
+    "ts_model": "AR",
+    "ts_params": {
+      "q": 2,
+      "alpha": 0.005,
+      "quantile": 0.995,
+      "factor_olvido": 0.02,
+      "lag_cambio": 2,
+      "suavizado": 7,
+      "change_quantile": 0.99
+    },
+    "outlier_detector": "diff",
+    "outlier_params": {
+      "lambda_centrada": 12,
+      "k": 0
+    }
+  },
+  "flujo": {
+    "ts_model": "AR",
+    "ts_params": {
+      "q": 2,
+      "alpha": 0.005,
+      "quantile": 0.995,
+      "factor_olvido": 0.02,
+      "lag_cambio": 2,
+      "suavizado": 7,
+      "change_quantile": 0.99
+    },
+    "outlier_detector": "diff",
+    "outlier_params": {
+      "lambda_centrada": 12,
+      "k": 0
+    }
+  },
+  "presion": {
+    "ts_model": "AR",
+    "ts_params": {
+      "q": 2,
+      "alpha": 0.005,
+      "quantile": 0.995,
+      "factor_olvido": 0.02,
+      "lag_cambio": 2,
+      "suavizado": 7,
+      "change_quantile": 0.99
+    },
+    "outlier_detector": "diff",
+    "outlier_params": {
+      "lambda_centrada": 12,
+      "k": 0
+    }
+  }
+}

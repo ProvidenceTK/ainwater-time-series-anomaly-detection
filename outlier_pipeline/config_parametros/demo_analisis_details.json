@@ -1,0 +1,891 @@
+{
+  "generated_at_utc": "2025-11-24T16:39:14.231159",
+  "target_band": [
+    0.005,
+    0.05
+  ],
+  "details": {
+    "temperatura": {
+      "recommendation": {
+        "lambda_centrada": 5,
+        "k": 0,
+        "outlier_ratio": 0.018,
+        "threshold_used": 8.647432058852553,
+        "std_used": 1.7294864117705107,
+        "note": "in_target_band"
+      },
+      "note": "in_target_band",
+      "grid": [
+        {
+          "lambda_centrada": 5,
+          "k": 0,
+          "outlier_ratio": 0.018,
+          "threshold_used": 8.647432058852553,
+          "std_used": 1.7294864117705107,
+          "note": "in_target_band"
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 2,
+          "outlier_ratio": 0.672,
+          "threshold_used": 8.647432058852553,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 5,
+          "outlier_ratio": 0.096,
+          "threshold_used": 8.647432058852553,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 8,
+          "outlier_ratio": 0.024,
+          "threshold_used": 8.647432058852553,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 12,
+          "outlier_ratio": 0.02,
+          "threshold_used": 8.647432058852553,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 0,
+          "outlier_ratio": 0.006,
+          "threshold_used": 13.835891294164085,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 2,
+          "outlier_ratio": 0.658,
+          "threshold_used": 13.835891294164085,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 5,
+          "outlier_ratio": 0.102,
+          "threshold_used": 13.835891294164085,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 13.835891294164085,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 13.835891294164085,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 0,
+          "outlier_ratio": 0.006,
+          "threshold_used": 17.294864117705107,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 2,
+          "outlier_ratio": 0.66,
+          "threshold_used": 17.294864117705107,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 5,
+          "outlier_ratio": 0.104,
+          "threshold_used": 17.294864117705107,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 17.294864117705107,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 17.294864117705107,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 0,
+          "outlier_ratio": 0.006,
+          "threshold_used": 20.753836941246128,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 2,
+          "outlier_ratio": 0.668,
+          "threshold_used": 20.753836941246128,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 5,
+          "outlier_ratio": 0.1,
+          "threshold_used": 20.753836941246128,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 20.753836941246128,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 20.753836941246128,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 25.94229617655766,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 2,
+          "outlier_ratio": 0.662,
+          "threshold_used": 25.94229617655766,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 5,
+          "outlier_ratio": 0.096,
+          "threshold_used": 25.94229617655766,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 25.94229617655766,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 25.94229617655766,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 31.130755411869192,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 2,
+          "outlier_ratio": 0.636,
+          "threshold_used": 31.130755411869192,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 5,
+          "outlier_ratio": 0.104,
+          "threshold_used": 31.130755411869192,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 31.130755411869192,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 31.130755411869192,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 34.58972823541021,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 2,
+          "outlier_ratio": 0.656,
+          "threshold_used": 34.58972823541021,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 5,
+          "outlier_ratio": 0.102,
+          "threshold_used": 34.58972823541021,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 34.58972823541021,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 34.58972823541021,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 43.237160294262765,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 2,
+          "outlier_ratio": 0.656,
+          "threshold_used": 43.237160294262765,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 5,
+          "outlier_ratio": 0.098,
+          "threshold_used": 43.237160294262765,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 43.237160294262765,
+          "std_used": 1.7294864117705107
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 12,
+          "outlier_ratio": 0.008,
+          "threshold_used": 43.237160294262765,
+          "std_used": 1.7294864117705107
+        }
+      ]
+    },
+    "flujo": {
+      "recommendation": {
+        "lambda_centrada": 5,
+        "k": 0,
+        "outlier_ratio": 0.008,
+        "threshold_used": 25.457351727002493,
+        "std_used": 5.091470345400499,
+        "note": "in_target_band"
+      },
+      "note": "in_target_band",
+      "grid": [
+        {
+          "lambda_centrada": 5,
+          "k": 0,
+          "outlier_ratio": 0.008,
+          "threshold_used": 25.457351727002493,
+          "std_used": 5.091470345400499,
+          "note": "in_target_band"
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 2,
+          "outlier_ratio": 0.934,
+          "threshold_used": 25.457351727002493,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 5,
+          "outlier_ratio": 0.654,
+          "threshold_used": 25.457351727002493,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 8,
+          "outlier_ratio": 0.396,
+          "threshold_used": 25.457351727002493,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 12,
+          "outlier_ratio": 0.118,
+          "threshold_used": 25.457351727002493,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 40.73176276320399,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 2,
+          "outlier_ratio": 0.936,
+          "threshold_used": 40.73176276320399,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 5,
+          "outlier_ratio": 0.668,
+          "threshold_used": 40.73176276320399,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 8,
+          "outlier_ratio": 0.364,
+          "threshold_used": 40.73176276320399,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 12,
+          "outlier_ratio": 0.118,
+          "threshold_used": 40.73176276320399,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 50.914703454004986,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 2,
+          "outlier_ratio": 0.932,
+          "threshold_used": 50.914703454004986,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 5,
+          "outlier_ratio": 0.642,
+          "threshold_used": 50.914703454004986,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 8,
+          "outlier_ratio": 0.372,
+          "threshold_used": 50.914703454004986,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 12,
+          "outlier_ratio": 0.128,
+          "threshold_used": 50.914703454004986,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 61.09764414480598,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 2,
+          "outlier_ratio": 0.962,
+          "threshold_used": 61.09764414480598,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 5,
+          "outlier_ratio": 0.654,
+          "threshold_used": 61.09764414480598,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 8,
+          "outlier_ratio": 0.366,
+          "threshold_used": 61.09764414480598,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 12,
+          "outlier_ratio": 0.118,
+          "threshold_used": 61.09764414480598,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 76.37205518100748,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 2,
+          "outlier_ratio": 0.95,
+          "threshold_used": 76.37205518100748,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 5,
+          "outlier_ratio": 0.64,
+          "threshold_used": 76.37205518100748,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 8,
+          "outlier_ratio": 0.38,
+          "threshold_used": 76.37205518100748,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 12,
+          "outlier_ratio": 0.116,
+          "threshold_used": 76.37205518100748,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 91.64646621720897,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 2,
+          "outlier_ratio": 0.93,
+          "threshold_used": 91.64646621720897,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 5,
+          "outlier_ratio": 0.648,
+          "threshold_used": 91.64646621720897,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 8,
+          "outlier_ratio": 0.38,
+          "threshold_used": 91.64646621720897,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 12,
+          "outlier_ratio": 0.118,
+          "threshold_used": 91.64646621720897,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 101.82940690800997,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 2,
+          "outlier_ratio": 0.94,
+          "threshold_used": 101.82940690800997,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 5,
+          "outlier_ratio": 0.64,
+          "threshold_used": 101.82940690800997,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 8,
+          "outlier_ratio": 0.376,
+          "threshold_used": 101.82940690800997,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 12,
+          "outlier_ratio": 0.12,
+          "threshold_used": 101.82940690800997,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 127.28675863501246,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 2,
+          "outlier_ratio": 0.928,
+          "threshold_used": 127.28675863501246,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 5,
+          "outlier_ratio": 0.672,
+          "threshold_used": 127.28675863501246,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 8,
+          "outlier_ratio": 0.378,
+          "threshold_used": 127.28675863501246,
+          "std_used": 5.091470345400499
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 12,
+          "outlier_ratio": 0.114,
+          "threshold_used": 127.28675863501246,
+          "std_used": 5.091470345400499
+        }
+      ]
+    },
+    "presion": {
+      "recommendation": {
+        "lambda_centrada": 5,
+        "k": 0,
+        "outlier_ratio": 0.016,
+        "threshold_used": 1.6677534814367678,
+        "std_used": 0.33355069628735357,
+        "note": "in_target_band"
+      },
+      "note": "in_target_band",
+      "grid": [
+        {
+          "lambda_centrada": 5,
+          "k": 0,
+          "outlier_ratio": 0.016,
+          "threshold_used": 1.6677534814367678,
+          "std_used": 0.33355069628735357,
+          "note": "in_target_band"
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 2,
+          "outlier_ratio": 0.018,
+          "threshold_used": 1.6677534814367678,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 5,
+          "outlier_ratio": 0.014,
+          "threshold_used": 1.6677534814367678,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 8,
+          "outlier_ratio": 0.014,
+          "threshold_used": 1.6677534814367678,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 5,
+          "k": 12,
+          "outlier_ratio": 0.01,
+          "threshold_used": 1.6677534814367678,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 0,
+          "outlier_ratio": 0.006,
+          "threshold_used": 2.6684055702988285,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 2,
+          "outlier_ratio": 0.006,
+          "threshold_used": 2.6684055702988285,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 2.6684055702988285,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 2.6684055702988285,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 8,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 2.6684055702988285,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 3.3355069628735357,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 2,
+          "outlier_ratio": 0.014,
+          "threshold_used": 3.3355069628735357,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 3.3355069628735357,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 3.3355069628735357,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 10,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 3.3355069628735357,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 4.002608355448243,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 2,
+          "outlier_ratio": 0.006,
+          "threshold_used": 4.002608355448243,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 4.002608355448243,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 4.002608355448243,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 12,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 4.002608355448243,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 5.003260444310303,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 2,
+          "outlier_ratio": 0.014,
+          "threshold_used": 5.003260444310303,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 5.003260444310303,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 5.003260444310303,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 15,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 5.003260444310303,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 6.003912533172365,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 2,
+          "outlier_ratio": 0.006,
+          "threshold_used": 6.003912533172365,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 6.003912533172365,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 6.003912533172365,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 18,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 6.003912533172365,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 6.671013925747071,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 2,
+          "outlier_ratio": 0.006,
+          "threshold_used": 6.671013925747071,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 6.671013925747071,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 6.671013925747071,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 20,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 6.671013925747071,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 0,
+          "outlier_ratio": 0.004,
+          "threshold_used": 8.33876740718384,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 2,
+          "outlier_ratio": 0.006,
+          "threshold_used": 8.33876740718384,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 5,
+          "outlier_ratio": 0.0,
+          "threshold_used": 8.33876740718384,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 8,
+          "outlier_ratio": 0.0,
+          "threshold_used": 8.33876740718384,
+          "std_used": 0.33355069628735357
+        },
+        {
+          "lambda_centrada": 25,
+          "k": 12,
+          "outlier_ratio": 0.0,
+          "threshold_used": 8.33876740718384,
+          "std_used": 0.33355069628735357
+        }
+      ]
+    }
+  }
+}
